@@ -1,0 +1,42 @@
+.header{
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+.content{
+    padding: 25px;
+    text-align: center;
+    color: #1abc9c;
+    background: whitesmoke;
+    font-size: 29px;
+}
+#aa{
+    color: #1abc9c;
+}
+#aa:hover{
+    color: #62cfba;
+    
+    transition: 1s;
+}
+#aaa{
+    color: #1abc9c;
+}
+#aaa:hover{
+    color: #62cfba;
+    
+    transition: 1s;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1abc9c;
+    color: white;
+    text-align: center;
+}
+#ppo{
+    padding: 30px;
+}
